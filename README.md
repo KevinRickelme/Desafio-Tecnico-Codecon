@@ -1,7 +1,7 @@
 # Desafio Técnico: Performance e Análise de Dados via API
 
-## Explicação [UMA API PARA ANALISAR DADOS DE 100 MIL USUÁRIOS - 1 sênior vs. 3 júniors - Codecon]((https://www.youtube.com/watch?v=AFtRYXJVO-4))
-Assistindo ao vídeo me senti preparado para testar meus conhecimentos e finalizar o desafio proposto. Acessei o repositório do projeto e comecei o desenvolvimento. O Desafio foi finalizado em 56m08s e atende os requisitos técnicos propostos. Todo o projeto foi criado em WebAPI do C# utilizando .NET 8.
+## Explicação 
+Assistindo ao vídeo [UMA API PARA ANALISAR DADOS DE 100 MIL USUÁRIOS - 1 sênior vs. 3 júniors - Codecon](https://youtube.com/watch?v=AFtRYXJVO-4) me senti preparado para testar meus conhecimentos e finalizar o desafio proposto. Acessei o repositório do projeto e comecei o desenvolvimento. O Desafio foi finalizado em 56m08s e atende os requisitos técnicos propostos. Todo o projeto foi criado em WebAPI do C# utilizando .NET 8.
 
 ## Objetivo
 
